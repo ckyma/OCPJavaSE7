@@ -4,6 +4,8 @@ package edu.cy.chapter1.override.twist;
  * Created by metastock on 2/6/2017.
  */
 
+// This applies to static method only, not member variables.
+
 class BookB{
     static void print(){}
 }
